@@ -9,6 +9,12 @@ https://tgstation13.org/wiki/Jobs
 
 https://tgstation13.org/wiki/Guides
 
+##### Tips
+https://www.youtube.com/watch?v=dWY9jeZI4k0
+
+https://www.youtube.com/watch?v=6HFQWSHe2_k
+
+
 #####  Ordnance 101, TTV Bombs, Anomaly Core & Research, Tritium Production Guide, and Toxins
 https://www.youtube.com/watch?v=ap_GfcjLzgg
 
