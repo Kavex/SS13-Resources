@@ -20,12 +20,26 @@ Space Station 13 Resources for TGStation
 
 ## ** Jobs **
 
+##### Bartender
+
+:page_facing_up: [Bartender Wiki](https://tgstation13.org/wiki/Bartender)
+
+:tv: [SS13 Basic Guides for 2022: Bartender](https://www.youtube.com/watch?v=hzBPp0BZtZI)
+
 ##### Botanist 
 :page_facing_up: [Botanist Wiki](https://tgstation13.org/wiki/Botanist)
 
 :page_facing_up: [Guide to hydroponics](https://tgstation13.org/wiki/Guide_to_hydroponics)
 
 :tv: [Botanist Guide, Plant Care, Mutations 101, Splicing, Traits, Beekeeping](https://www.youtube.com/watch?v=MH-jAp2ciJQ)
+
+:tv: [SS13 Basic Guides for 2022: Hydroponics](https://www.youtube.com/watch?v=7D5qNsNyTVQ)
+
+##### Cargo
+
+:page_facing_up: [Cargo Wiki](https://tgstation13.org/wiki/Cargo_Technician)
+
+:tv: [SS13 Basic Guides for 2022: Cargo](https://www.youtube.com/watch?v=gLeaU3Cnzlc)
 
 ##### Cook - Chef
 :page_facing_up: [Cook Wiki](https://tgstation13.org/wiki/Cook)
@@ -53,6 +67,8 @@ Space Station 13 Resources for TGStation
 
 ##### Janitor
 :tv: [Janitor Tutorial & Guide For New Players](https://www.youtube.com/watch?v=oaFFm0VPz18)
+
+:tv: [SS13 Basic Guides for 2022: Janitor](https://www.youtube.com/watch?v=W_tjV8BfX9g)
 
 ##### Medical Doctor
 :page_facing_up: [Medical Doctor Wiki](https://tgstation13.org/wiki/Medical_Doctor)
