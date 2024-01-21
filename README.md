@@ -59,6 +59,9 @@ Space Station 13 Resources for TGStation
 :tv: [The Curator Job Tutorial. A Bookworm or Treasure Hunter Role Guide](https://www.youtube.com/watch?v=6OUIjMOXaLY)
 
 ##### Engineer 
+
+:page_facing_up: [Station Engineer Wiki](https://tgstation13.org/wiki/Station_Engineer)
+
 :tv: [Engineer Guide For New Players! Engineering, SME, Solar, Deconstruction & Hackin](https://www.youtube.com/watch?v=TxbkuYrNQDQ)
 
 #####  Geneticist
@@ -71,6 +74,8 @@ Space Station 13 Resources for TGStation
 :tv: [SS13 - Space Station 13: Basic Guide to Genetics](https://www.youtube.com/watch?v=bHRFEwUOVVU)
 
 ##### Janitor
+:page_facing_up: [Janitor Wiki](https://tgstation13.org/wiki/Janitor)
+
 :tv: [Janitor Tutorial & Guide For New Players](https://www.youtube.com/watch?v=oaFFm0VPz18)
 
 :tv: [SS13 Basic Guides for 2022: Janitor](https://www.youtube.com/watch?v=W_tjV8BfX9g)
