@@ -52,6 +52,11 @@ Space Station 13 Resources for TGStation
 ##### Janitor
 :tv: [Janitor Tutorial & Guide For New Players](https://www.youtube.com/watch?v=oaFFm0VPz18)
 
+##### Medical Doctor
+:page_facing_up: [Medical Doctor Wiki](https://tgstation13.org/wiki/Medical_Doctor)
+
+:tv: [SS13 Basic Guides for 2022: Medical Doctor](https://www.youtube.com/watch?v=qLPMUQMUiu8)
+
 ##### Security 
 :tv: [Complete Security Department Guide & Tutorial](https://www.youtube.com/watch?v=ewFFgdE_4RE)
 
