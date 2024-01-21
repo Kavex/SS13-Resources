@@ -19,9 +19,13 @@ Space Station 13 Resources for TGStation
 
 :tv: [Top 12 Tips and Tricks I Wish I Knew Before Playing Space Station 13 in 2021! For New Players!](https://www.youtube.com/watch?v=6HFQWSHe2_k)
 
+##### Advance Tips
+
 :tv: [Guide to Ordnance 101, TTV Bombs, Anomaly Core & Research Papers EP1](https://www.youtube.com/watch?v=ap_GfcjLzgg)
 
 :tv: [Tritium Production Guide, Toxins & Ordnance Science Tutorial EP2](https://www.youtube.com/watch?v=1-2kZXh-ArM)
+
+:tv: [Super Easy Maxcap TTV's Using Hyper Nob - Ordnance Tutorial Guide](https://www.youtube.com/watch?v=u9cRvepWSgY)
 
 ## ** Jobs **
 
