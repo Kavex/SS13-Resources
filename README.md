@@ -49,8 +49,6 @@ Space Station 13 Resources for TGStation
 
 :tv: [SS13 - Space Station 13: Basic Guide to Genetics](https://www.youtube.com/watch?v=bHRFEwUOVVU)
 
-## ** Others **
-
 ##### Janitor
 :tv: [Janitor Tutorial & Guide For New Players](https://www.youtube.com/watch?v=oaFFm0VPz18)
 
@@ -59,6 +57,8 @@ Space Station 13 Resources for TGStation
 
 ##### Virology 
 :tv: [Virology Guide , Space Station 13's Master of Contagion](https://www.youtube.com/watch?v=WGVyI8bV-iI)
+
+## ** Others Guides **
 
 ##### Single Player Guides
 :tv: [1. Charlie Station - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=vc0R1TFJ3z4)
