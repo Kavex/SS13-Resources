@@ -10,6 +10,11 @@ Space Station 13 Resources for TGStation
 :page_facing_up: [TGStation Wiki Guides](https://tgstation13.org/wiki/Guides)
 
 ##### Tips
+
+:tv: [SS13 Basic Guides for 2022: Character Creation/Starting Out](https://www.youtube.com/watch?v=PwFMlwDESoE) 
+
+:tv: [SS13 Basic Guides for 2022: Basic Defence/EVA](https://www.youtube.com/watch?v=dpV8nVfwOQs)
+
 :tv: [THE BEST Secrets I wish I Knew Before Playing Space Station 13! (2023) New Player Tips & Tricks](https://www.youtube.com/watch?v=dWY9jeZI4k0)
 
 :tv: [Top 12 Tips and Tricks I Wish I Knew Before Playing Space Station 13 in 2021! For New Players!](https://www.youtube.com/watch?v=6HFQWSHe2_k)
