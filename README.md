@@ -10,15 +10,13 @@ https://tgstation13.org/wiki/Jobs
 https://tgstation13.org/wiki/Guides
 
 ##### Tips
-[THE BEST Secrets I wish I Knew Before Playing Space Station 13! (2023) New Player Tips & Tricks](https://www.youtube.com/watch?v=dWY9jeZI4k0)
+[Vid: THE BEST Secrets I wish I Knew Before Playing Space Station 13! (2023) New Player Tips & Tricks](https://www.youtube.com/watch?v=dWY9jeZI4k0)
 
-https://www.youtube.com/watch?v=6HFQWSHe2_k
+[Vid: Top 12 Tips and Tricks I Wish I Knew Before Playing Space Station 13 in 2021! For New Players!](https://www.youtube.com/watch?v=6HFQWSHe2_k)
 
+[Vid: Guide to Ordnance 101, TTV Bombs, Anomaly Core & Research Papers EP1](https://www.youtube.com/watch?v=ap_GfcjLzgg)
 
-#####  Ordnance 101, TTV Bombs, Anomaly Core & Research, Tritium Production Guide, and Toxins
-https://www.youtube.com/watch?v=ap_GfcjLzgg
-
-https://www.youtube.com/watch?v=1-2kZXh-ArM
+[Vid: Tritium Production Guide, Toxins & Ordnance Science Tutorial EP2](https://www.youtube.com/watch?v=1-2kZXh-ArM)
 
 ## ** Jobs **
 
