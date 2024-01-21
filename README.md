@@ -27,12 +27,14 @@ Space Station 13 Resources for TGStation
 
 :tv: [Botanist Guide, Plant Care, Mutations 101, Splicing, Traits, Beekeeping](https://www.youtube.com/watch?v=MH-jAp2ciJQ)
 
-##### Cook
+##### Cook - Chef
 :page_facing_up: [Cook Wiki](https://tgstation13.org/wiki/Cook)
 
 :page_facing_up: [Guide to Food](https://tgstation13.org/wiki/Guide_to_food)
 
 :page_facing_up: [Guide to Resaurant](https://tgstation13.org/wiki/Guide_to_Restaurant)
+
+:tv: [SS13 Basic Guides for 2022: Chef](https://www.youtube.com/watch?v=EzdZ4nH73rs)
 
 ##### Curator 
 :tv: [The Curator Job Tutorial. A Bookworm or Treasure Hunter Role Guide](https://www.youtube.com/watch?v=6OUIjMOXaLY)
@@ -57,11 +59,18 @@ Space Station 13 Resources for TGStation
 
 :tv: [SS13 Basic Guides for 2022: Medical Doctor](https://www.youtube.com/watch?v=qLPMUQMUiu8)
 
+##### Paramedic
+:page_facing_up: [Paramedic  Wiki](https://tgstation13.org/wiki/Paramedic)
+
+:tv: [SS13 Basic Guides for 2022: Paramedic](https://www.youtube.com/watch?v=B1Xt7peavY4)
+
 ##### Security 
 :tv: [Complete Security Department Guide & Tutorial](https://www.youtube.com/watch?v=ewFFgdE_4RE)
 
 ##### Virology 
 :tv: [Virology Guide , Space Station 13's Master of Contagion](https://www.youtube.com/watch?v=WGVyI8bV-iI)
+
+:tv: [SS13 Basic Guides for 2022: Virologist](https://www.youtube.com/watch?v=cge3bNE3QPQ)
 
 ## ** Others Guides **
 
