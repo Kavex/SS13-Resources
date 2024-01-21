@@ -98,6 +98,8 @@ Space Station 13 Resources for TGStation
 
 :tv: [SS13 Basic Guides for 2022: Virologist](https://www.youtube.com/watch?v=cge3bNE3QPQ)
 
+:tv: [SS13: Guide to virology *No Voice*](https://www.youtube.com/watch?v=CyNdi_-DJxA)
+
 ## ** Others Guides **
 
 ##### Single Player Guides
