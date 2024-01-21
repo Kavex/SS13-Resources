@@ -10,7 +10,7 @@ https://tgstation13.org/wiki/Jobs
 https://tgstation13.org/wiki/Guides
 
 ##### Tips
-(THE BEST Secrets I wish I Knew Before Playing Space Station 13! (2023) New Player Tips & Tricks)[https://www.youtube.com/watch?v=dWY9jeZI4k0]
+[THE BEST Secrets I wish I Knew Before Playing Space Station 13! (2023) New Player Tips & Tricks](https://www.youtube.com/watch?v=dWY9jeZI4k0)
 
 https://www.youtube.com/watch?v=6HFQWSHe2_k
 
