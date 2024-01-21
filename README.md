@@ -49,6 +49,8 @@ Space Station 13 Resources for TGStation
 
 :tv: [SS13 - Space Station 13: Basic Guide to Genetics](https://www.youtube.com/watch?v=bHRFEwUOVVU)
 
+## ** Others **
+
 ##### Janitor
 :tv: [Janitor Tutorial & Guide For New Players](https://www.youtube.com/watch?v=oaFFm0VPz18)
 
@@ -58,5 +60,31 @@ Space Station 13 Resources for TGStation
 ##### Virology 
 :tv: [Virology Guide , Space Station 13's Master of Contagion](https://www.youtube.com/watch?v=WGVyI8bV-iI)
 
-##### 
+##### Single Player Guides
+:tv: [1. Charlie Station - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=vc0R1TFJ3z4)
 
+:tv: [2. Solar Power - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=p1LOCWBcBdQ)
+
+:tv: [3. Station Atmospherics - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=R3-2axpB3NA)
+
+:tv: [4. Combat and Damage Basics - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=Xh7iEja5vT0)
+
+:tv: [5. Science and Fabrication - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=DnBBFHOliho)
+
+:tv: [6. Chemistry Basics, Ghetto Way - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=o_nh9k4EI9M)
+
+:tv: [7. Crafting Menu, Clothing, Silo, Pet Carp - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=KT0fR1TNyr0)
+
+:tv: [8. Fertilizer Mixes for Botany - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=8T-dlE1-0IM)
+
+:tv: [9. Botany - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=-RUwLEXtVjQ)
+
+:tv: [10. Mining with Exosuit (MOD Suit) - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=YXarYuYPRMI)
+
+:tv: [11. Disposal, Recycling & Delivery - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=DAb4rXlafxU)
+
+:tv: [12. Robotics - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=U0kG0NwA2gs)
+
+:tv: [13. Surgery, Autopsy, Ghetto Stasis - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=pp3zd6PHW7Q)
+
+:tv: [14. Cytology - Space Station 13 Singleplayer / Guide / Tutorial](https://www.youtube.com/watch?v=dkKFhH_IHhE)
